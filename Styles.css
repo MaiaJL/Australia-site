@@ -1,0 +1,62 @@
+h1 {
+    color: mediumblue;
+     
+}
+p { color: red;}
+.page1 { color: steelblue;}
+.p1 { color: rgb(196, 88, 76);
+    text-align: center;}
+ul {
+    width: 50%;
+    margin: auto;
+    text-align:center
+    
+
+}
+
+ul>li {
+    color: mediumblue;
+    display: inline-block;
+}
+a { color: maroon;}
+
+img {
+    display: block;
+    width: 50%;
+    
+}
+#flag {
+
+}
+#overview { 
+    margin: auto;
+    
+}
+#map {
+    
+}
+#dolphins {
+    margin:auto;
+}
+#Reef {
+    margin: auto;
+}
+#Kangaroo { margin: auto;
+}
+#koala { 
+    margin: auto;
+}
+#fence  {
+    width: 40%;
+}
+#dingo {
+    width: 40%;
+    margin: auto;
+}
+#fencemap {
+    margin-left: auto;
+    width: 40%;
+}
+
+body {background-color: powderblue;}
+.title {color: mediumblue;text-align: center;}
